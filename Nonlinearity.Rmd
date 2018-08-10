@@ -1,0 +1,6 @@
+---
+title: "Nonlinearity"
+author: "David Duemig"
+output: html_document
+---
+
